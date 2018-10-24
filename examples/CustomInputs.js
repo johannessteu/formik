@@ -50,7 +50,6 @@ const SignUp = () => (
             componnet="select"
             name="color"
             label="Favorite Color"
-            component="select"
           >
             <option value="">Select a Color</option>
             <option value="red">Red</option>
